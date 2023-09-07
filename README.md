@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HouGui
 - 👀 I’m interested in embedded systems engineering, over-the-air communication and automotive systems
-- 🌱 I’m currently working with/learning C/C++, Python, JavaScript, MySQL, embedded Linux, Docker, LaTeX
+- 🌱 I’m currently working with/learning C/C++, Python, embedded Linux, Docker, LaTeX, MySQL
 - 📫 How to reach me houssem.guissouma@gmx.de
 
 <!---
